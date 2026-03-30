@@ -12,7 +12,7 @@ Techno-functional by nature: I speak business fluently and translate it into tec
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/archana-shukla-b5639411/) — My Professional Journey
-- [GitHub](https://github.com/arcshukla) - My Developer & product nack
+- [GitHub](https://github.com/arcshukla) — My Developer & product nack
 - [Topmate](https://topmate.io/archana_shukla10/) — 1:1 sessions, mentoring, strategy
 - [Medium](https://medium.com/@arc.shukla) — writing on AI, technology leadership, and building scalable products
 - [ProfileAgent](https://huggingface.co/spaces/arcshukla/profile_agent) — My AI-powered professional profile platform
